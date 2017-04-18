@@ -1,0 +1,16 @@
+*{box-sizing:border-box}
+.navbar{padding-top:15px;padding-bottom:15px;margin-bottom:0}
+.navbar .navbar-brand{font-size:18px;letter-spacing:5px}
+.navbar .navbar-nav a{font-size:12px;text-transform:uppercase;letter-spacing:5px}
+.navbar .navbar-nav a:hover{color:#1abc2c!important}
+.sub-header{color:#fff;background-color:#1abc9c;padding-top:70px;padding-bottom:70px}
+.sub-header h3,.sub-header img{margin-bottom:45px}
+.content{color:#fff;background-color:#474e5d;padding-top:70px;padding-bottom:70px}
+.content h3{margin-bottom:45px}
+.content p{font-size:16px}
+.product{padding-top:70px;padding-bottom:70px}
+.product h3{margin-bottom:45px;color:#555}
+.product p{color:#555;font-size:16px}
+.product img{display:inline}
+.footer{padding-top:70px;padding-bottom:70px;background-color:#2f2f2f}
+.footer p{font-size:16px;color:#fff}
